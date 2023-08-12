@@ -26,7 +26,7 @@ jobs:
     - name: Running Unit Tests
       run: npm run test:unit
     - name: Display softuni username
-      run: echo "rbekyarov-exam"
+      run: echo "borkou17-exam"
 
   deploy:  
     runs-on: ubuntu-latest
